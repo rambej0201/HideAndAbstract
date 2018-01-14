@@ -1,0 +1,22 @@
+Java OOPs Concept Abstraction: The process of highliting the set of services and hiding implementations is called Abstraction
+
+* We can achieve abstraction by using abstract class concept and interface concept
+* Abstract method contains method declaration but not method implementation. Each & every abstract method must end with terminator/semicolon
+* To represent a specific method as an abstract method use modifier Abstract
+
+Abstract Class: Abstract class also known as helper class
+Defining Abstract Class: Abstract class may or may not abstract method but it is not possible to declare an object through abstract class
+
+* If a class contains at least one abstract method and class representation with Abstract modifier is also called Abstract class
+* Through abstract class we can not declare an object
+* It is not possible to declare/create an object through an abstract class
+* We can prevent object creation through Abstract modifier
+
+Purpose of Abstract Modifier:
+1. Abstract modifier is applicable for method and class
+2. Abstract modifier usually represents particular method is an abstract method and particular class is an abstract class.
+
+Question1: Is it possible to declare main method in abstract class
+Answer: Yes, it is possible to declare main method in abstract class
+
+Abstract 
